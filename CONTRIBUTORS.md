@@ -57,6 +57,8 @@
 
 - [Torgeir Hellebust](https://github.com/tohellebust)
 
+-[Colby Irizarry](https://github.com/ImColby)
+
 - [Roman Nurik](https://github.com/romannurik)
 
 - [Roman Beekeeper](https://github.com/romankh3)
